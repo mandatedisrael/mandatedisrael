@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm DamiKing</h1>
 <h3 align="center">I'm an ardent Cyber security and Blockchain Developer</h3>
 
-- 🌱 I’m currently learning **Smart Contracts development.**
+- 🌱 I’m currently learning **Smart contract dev with Solidity and React JS**
 
 - 📫 You can reach me on **mandatedisrael@gmail.com**
 
